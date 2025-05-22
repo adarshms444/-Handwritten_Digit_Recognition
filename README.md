@@ -1,4 +1,4 @@
-# -Handwritten_Digit_Recognition
+# Handwritten_Digit_Recognition
 
 This project focuses on developing a **multi-class image classification system** using machine learning techniques to **accurately recognize handwritten digits (0–9)** from image data.  
 It includes a training pipeline using the **MNIST dataset** and a user-friendly **web app** built with **Streamlit** to upload and classify custom digit images.
